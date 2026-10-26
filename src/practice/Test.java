@@ -17,6 +17,9 @@ public static void main(String[] args) {
 	map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0)+1);
 	}
 	System.out.println(map);
+	System.out.println("hi");
+	System.out.println("hello");
+	System.out.println("welcome");
 	}}
 
 	
