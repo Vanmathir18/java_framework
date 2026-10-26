@@ -17,7 +17,7 @@ public static void main(String[] args) {
 //		set.add(s.charAt(i));
 //	}
 //	System.out.println(set);
-
+//ghgvhgbhj
 	//occurence of an character
 	String s="Programming";
 	HashMap<Character, Integer> map=new LinkedHashMap<Character, Integer>();
@@ -26,6 +26,8 @@ public static void main(String[] args) {
 		map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0)+1);
 		}
 	System.out.println(map);
+	System.out.println("Hi");
+	System.out.println("hello");
 }}
 	
 
