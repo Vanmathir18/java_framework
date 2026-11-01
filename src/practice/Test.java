@@ -31,6 +31,7 @@ public static void main(String[] args) {
 	System.out.println("world");
 	System.out.println("world");
 	System.out.println("Push and pull for git");
+	System.out.println("Push for git");
 	System.out.println("world");
 }}
 	
